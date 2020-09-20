@@ -20,7 +20,7 @@ In this project, I have to model data with Postgres and build an ETL pipeline us
 
 <b> songs </b> in music databases
 
-<b> srtists </b> in music database
+<b> artists </b> in music database
 
 <b> time: </b> timestamps of records in songplays broken down into the specific units
 
